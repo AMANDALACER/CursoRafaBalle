@@ -1,5 +1,8 @@
 function adicionarTarefa() {
-
+    
+    //Array
+    let tarefas = []
+    
     //recebe valor do input do usuário
     const inputTarefa = document.getElementById("inputTarefa")
     let tarefa = inputTarefa.value.trim()
@@ -26,3 +29,5 @@ function adicionarTarefa() {
     //limpa o input do usuário
     inputTarefa.value = ""
 }
+
+//Aula 04 Arrays (lsitas), estruturas de repetição (for) e escopo

@@ -18,6 +18,8 @@ function adicionarTarefa() {
     // adiciona o elemento filho
 
     inputTarefa.value = ""
-    // apaga as palavras após adicionadas
+    // limpa o input do usuário
     
 }
+
+//Aula 03 
